@@ -1,0 +1,25 @@
+{
+  "name": "remote-debug-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gogoday/remote-debug-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gogoday/remote-debug-client/issues"
+  },
+  "homepage": "https://github.com/gogoday/remote-debug-client#readme",
+  "dependencies": {
+    "chokidar": "^1.6.1",
+    "request": "^2.81.0",
+    "socket.io": "^1.7.3",
+    "socket.io-stream": "^0.9.1"
+  }
+}
